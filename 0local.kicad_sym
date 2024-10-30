@@ -4812,7 +4812,7 @@
 					(type background)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 0 0 0)
 				(length 2.54)
 				(name ""
@@ -4830,7 +4830,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 7.62 0 180)
 				(length 2.54)
 				(name ""
@@ -4909,7 +4909,7 @@
 					(type background)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 0 0 0)
 				(length 2.54)
 				(name ""
@@ -4927,7 +4927,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 7.62 0 180)
 				(length 2.54)
 				(name ""
@@ -5949,7 +5949,7 @@
 					(type background)
 				)
 			)
-			(pin unspecified line
+			(pin input line
 				(at -17.78 -2.54 0)
 				(length 5.08)
 				(name ""
@@ -5967,7 +5967,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin input line
 				(at -17.78 -15.24 0)
 				(length 5.08)
 				(name ""
@@ -5985,7 +5985,7 @@
 					)
 				)
 			)
-			(pin power_out line
+			(pin power_in line
 				(at 16.51 -15.24 180)
 				(length 5.08)
 				(name ""
@@ -6003,7 +6003,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 16.51 -8.89 180)
 				(length 5.08)
 				(name ""

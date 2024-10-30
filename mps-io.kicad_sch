@@ -3730,7 +3730,7 @@
 						(type background)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 0 0)
 					(length 2.54)
 					(name ""
@@ -3748,7 +3748,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 7.62 0 180)
 					(length 2.54)
 					(name ""
@@ -3827,7 +3827,7 @@
 						(type background)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 0 0)
 					(length 2.54)
 					(name ""
@@ -3845,7 +3845,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 7.62 0 180)
 					(length 2.54)
 					(name ""
@@ -4867,7 +4867,7 @@
 						(type background)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at -17.78 -2.54 0)
 					(length 5.08)
 					(name ""
@@ -4885,7 +4885,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at -17.78 -15.24 0)
 					(length 5.08)
 					(name ""
@@ -4903,7 +4903,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at 16.51 -15.24 180)
 					(length 5.08)
 					(name ""
@@ -4921,7 +4921,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin output line
 					(at 16.51 -8.89 180)
 					(length 5.08)
 					(name ""
@@ -6087,6 +6087,22 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd405996-eb03-4a8c-85cf-beada25da62f")
+	)
+	(no_connect
+		(at 55.88 67.31)
+		(uuid "03c46572-c521-473e-a554-ce00df826549")
+	)
+	(no_connect
+		(at 91.44 154.94)
+		(uuid "2a7c7f65-0bee-42c5-8e47-64de0d423114")
+	)
+	(no_connect
+		(at 91.44 152.4)
+		(uuid "82836141-e8fc-47e4-ab0a-91ac9993dacb")
+	)
+	(no_connect
+		(at 55.88 64.77)
+		(uuid "a8b13cb2-0e23-4c82-8333-ec2beae127c9")
 	)
 	(wire
 		(pts
@@ -14252,7 +14268,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 77.47 177.8 0)
+		(at 77.47 176.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14260,7 +14276,7 @@
 		(dnp no)
 		(uuid "b8289e57-ed65-46a6-aa0a-a5d57f6bff47")
 		(property "Reference" "TP1"
-			(at 75.946 171.704 0)
+			(at 75.946 170.434 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14269,7 +14285,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 80.01 175.7679 0)
+			(at 80.01 174.4979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14279,7 +14295,7 @@
 			)
 		)
 		(property "Footprint" "0local:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded"
-			(at 82.55 177.8 0)
+			(at 82.55 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14288,7 +14304,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 82.55 177.8 0)
+			(at 82.55 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14297,7 +14313,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 77.47 177.8 0)
+			(at 77.47 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14306,7 +14322,7 @@
 			)
 		)
 		(property "Digikey" "36-5000-ND"
-			(at 77.47 177.8 0)
+			(at 77.47 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14315,7 +14331,7 @@
 			)
 		)
 		(property "MPN" "5000"
-			(at 77.47 177.8 0)
+			(at 77.47 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15463,7 +15479,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 77.47 193.04 180)
+		(at 77.47 194.31 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15471,7 +15487,7 @@
 		(dnp no)
 		(uuid "e72d819f-b771-4ed3-9db1-879a361aaad4")
 		(property "Reference" "TP2"
-			(at 78.994 199.136 0)
+			(at 78.994 200.406 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15480,7 +15496,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 74.93 195.0721 0)
+			(at 74.93 196.3421 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15490,7 +15506,7 @@
 			)
 		)
 		(property "Footprint" "0local:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded"
-			(at 72.39 193.04 0)
+			(at 72.39 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15499,7 +15515,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 72.39 193.04 0)
+			(at 72.39 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15508,7 +15524,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 77.47 193.04 0)
+			(at 77.47 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15517,7 +15533,7 @@
 			)
 		)
 		(property "Digikey" "36-5001-ND"
-			(at 77.47 193.04 0)
+			(at 77.47 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15526,7 +15542,7 @@
 			)
 		)
 		(property "MPN" "5001"
-			(at 77.47 193.04 0)
+			(at 77.47 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
