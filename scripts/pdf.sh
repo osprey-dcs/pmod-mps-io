@@ -24,16 +24,12 @@ makepdf() {
 # cf.
 # https://gitlab.com/kicad/code/kicad/-/blob/master/include/layer_ids.h
 
-makepdf Quartz.kicad_pcb 1Front 'F.Cu,F.Silkscreen,Edge.Cuts'
+makepdf mps-io.kicad_pcb 1Front 'F.Cu,F.Silkscreen,Edge.Cuts'
 
-makepdf Quartz.kicad_pcb 2Gnd 'In1.Cu,Edge.Cuts'
+makepdf mps-io.kicad_pcb 2Gnd 'In1.Cu,Edge.Cuts'
 
-makepdf Quartz.kicad_pcb 3Pwr 'In2.Cu,Edge.Cuts'
+makepdf mps-io.kicad_pcb 3Gnd 'In2.Cu,Edge.Cuts'
 
-makepdf Quartz.kicad_pcb 4In 'In3.Cu,Edge.Cuts'
-
-makepdf Quartz.kicad_pcb 5Gnd 'In4.Cu,Edge.Cuts'
-
-makepdf Quartz.kicad_pcb 6Bot 'B.Cu,B.Silkscreen,Edge.Cuts'
+makepdf mps-io.kicad_pcb 4Bot 'B.Cu,B.Silkscreen,Edge.Cuts'
 
 pdfunite "$TDIR"/*-layer.pdf "$OUT"
