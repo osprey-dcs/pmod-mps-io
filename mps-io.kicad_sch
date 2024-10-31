@@ -8,6 +8,7 @@
 		(title "PMOD MPS I/O")
 		(rev "A")
 		(company "Osprey DCS")
+		(comment 1 "${git_hash}")
 	)
 	(lib_symbols
 		(symbol "0local:430451628"

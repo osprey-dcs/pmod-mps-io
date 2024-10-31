@@ -63,7 +63,9 @@
           "width": 0.1524
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_overlap|129035000|96540580|528002e3-2470-4233-9cae-c9a8a3d8b29f|cc5e03f0-e232-4541-9b64-9725120a276f"
+      ],
       "meta": {
         "version": 2
       },

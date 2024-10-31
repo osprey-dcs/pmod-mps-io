@@ -1,0 +1,32 @@
+name: Automation
+
+on: [push, pull_request, workflow_dispatch]
+
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        dir: output
+        verbose: 3
+    - name: Full output
+      uses: actions/upload-artifact@v4
+      if: ${{ always() }}
+      with:
+        name: Everything
+        path: output
+    - name: Fab output
+      id: fab
+      uses: actions/upload-artifact@v4
+      with:
+        name: mps-io
+        compression-level: 9
+        if-no-files-found: 'error'
+        path: |
+          output/**/*.drl
+          output/**/*.gbr*
+          output/**/*.d356
+          output/**/*.pos
+          output/**/*bom*
