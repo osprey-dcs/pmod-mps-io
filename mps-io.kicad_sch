@@ -9243,6 +9243,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 34.29 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3577d528-1571-4b82-b358-691e8ccb3f10")
 		)
@@ -9330,6 +9339,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 137.16 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f033885c-f260-4ef8-b7dc-ac4e2ff97080")
 		)
@@ -9408,6 +9426,15 @@
 			)
 		)
 		(property "MPN" "SN74AC14PWR"
+			(at 73.66 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
 			(at 73.66 147.32 0)
 			(effects
 				(font
@@ -9539,6 +9566,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 119.38 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bae21097-2521-4bcc-96a4-531324ccdbd3")
 		)
@@ -9624,6 +9660,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 194.31 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f52043c7-d34b-47cb-92f1-911f789b94be")
 		)
@@ -9702,6 +9747,15 @@
 		)
 		(property "MPN" "RC0805FR-077K5L"
 			(at 194.31 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
+			(at 194.31 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9991,6 +10045,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 194.31 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a15858bc-a9bf-4355-ada4-bcd1c5e4f32b")
 		)
@@ -10273,6 +10336,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 194.31 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4ba0a4c-5d4d-42a5-871b-326db0bf2122")
 		)
@@ -10427,6 +10499,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 165.1 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "ffac128b-4573-4499-9c1d-179cd975efa8")
 		)
@@ -10524,6 +10605,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 165.1 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "ac2ff171-e3c7-47ab-848f-de38e759d72b")
 		)
@@ -10612,6 +10702,15 @@
 			)
 		)
 		(property "MPN" "0430451628"
+			(at 240.03 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
 			(at 240.03 95.25 0)
 			(effects
 				(font
@@ -10814,6 +10913,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 34.29 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "989565a4-ebe3-40ca-bdc7-d5242cc08db6")
 		)
@@ -10899,6 +11007,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 194.31 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "41c6bfbb-923d-4c38-b104-33cb1ecffa1e")
 		)
@@ -10977,6 +11094,15 @@
 		)
 		(property "MPN" "RC0603FR-0710KL"
 			(at 125.73 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
+			(at 125.73 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11130,6 +11256,15 @@
 			)
 		)
 		(property "MPN" "CC0603KRX7R7BB105"
+			(at 119.38 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
 			(at 119.38 36.83 0)
 			(effects
 				(font
@@ -11484,6 +11619,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 125.73 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cf261bc2-cd12-4543-a6f3-4d868820b143")
 		)
@@ -11564,6 +11708,15 @@
 		)
 		(property "MPN" "CL10B104KB8NNWC"
 			(at 137.16 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
+			(at 137.16 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11656,6 +11809,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 125.73 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d36e171e-60ba-447f-8dc9-8fc69c322f64")
 		)
@@ -11734,6 +11896,15 @@
 		)
 		(property "MPN" "RC0603FR-0710KL"
 			(at 34.29 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
+			(at 34.29 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11822,6 +11993,15 @@
 		)
 		(property "MPN" "TLP2312(V4-TPL,E"
 			(at 165.1 123.698 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
+			(at 165.1 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11990,6 +12170,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 187.96 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d83b9e32-00cd-4f78-a405-9c3772273544")
 		)
@@ -12081,6 +12270,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 125.73 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c54d2ec7-d1e3-4e3e-a87a-8b48d6a5a29f")
 		)
@@ -12161,6 +12359,15 @@
 		)
 		(property "MPN" "TDA02H0SB1R"
 			(at 187.96 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
+			(at 187.96 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12262,6 +12469,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 77.47 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "29ae06a8-432f-4a5c-a897-43ce4853c644")
 		)
@@ -12347,6 +12563,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 194.31 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "05229d4d-818b-4663-a599-04602939e838")
 		)
@@ -12425,6 +12650,15 @@
 		)
 		(property "MPN" "RC0603FR-07215RL"
 			(at 125.73 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
+			(at 125.73 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12584,6 +12818,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 194.31 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "46261d5f-a519-4529-a69f-99304d42d7a0")
 		)
@@ -12665,6 +12908,15 @@
 		)
 		(property "MPN" "TLP2312(V4-TPL,E"
 			(at 165.1 43.688 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
+			(at 165.1 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12898,6 +13150,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 39.37 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "ecdff85c-d52d-43cb-92e6-8185a6731909")
 		)
@@ -13013,6 +13274,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 88.9 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b071821a-310a-4f88-9e75-390bcad6aa56")
 		)
@@ -13093,6 +13363,15 @@
 		)
 		(property "MPN" "CL10B104KB8NNWC"
 			(at 59.69 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
+			(at 59.69 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13317,6 +13596,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 87.63 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a803f9b1-05db-4aa1-9288-720141b6e501")
 		)
@@ -13470,6 +13758,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 73.66 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3fb92fd1-3cb8-4958-8a79-cc99b4a7e114")
 		)
@@ -13593,6 +13890,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 187.96 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e83bdf95-2551-4a51-af13-7dd0ea7943f8")
 		)
@@ -13684,6 +13990,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 125.73 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c3013f7b-ffea-43ad-8751-4e1f40bfa0ab")
 		)
@@ -13764,6 +14079,15 @@
 		)
 		(property "MPN" "TDA02H0SB1R"
 			(at 187.96 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
+			(at 187.96 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13862,6 +14186,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 125.73 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3bcb6f16-3644-45d4-83f2-5fd18d30659b")
 		)
@@ -13947,6 +14280,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 194.31 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2d90b560-6e5b-4929-87d4-d10109b0e66d")
 		)
@@ -14025,6 +14367,15 @@
 		)
 		(property "MPN" "ERJ-6GEY0R00V"
 			(at 194.31 151.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
+			(at 194.31 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14251,6 +14602,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 137.16 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d7bfe38d-b843-4068-a15b-b4fdc5bfa873")
 		)
@@ -14331,6 +14691,15 @@
 			)
 		)
 		(property "MPN" "5000"
+			(at 77.47 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
 			(at 77.47 176.53 0)
 			(effects
 				(font
@@ -14421,6 +14790,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 34.29 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b7a899eb-5eda-42f9-b39f-8adfe52473f9")
 		)
@@ -14500,6 +14878,15 @@
 			)
 		)
 		(property "MPN" "GRM21BR61E106KA73L"
+			(at 67.31 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
 			(at 67.31 185.42 0)
 			(effects
 				(font
@@ -14595,6 +14982,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 119.38 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0268b7e8-2db9-4797-86d6-3e7a375dda21")
 		)
@@ -14673,6 +15069,15 @@
 		)
 		(property "MPN" "RC0805FR-071K37L"
 			(at 194.31 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
+			(at 194.31 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14773,6 +15178,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
+			(at 166.37 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -14888,6 +15302,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 241.3 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/d6fa6e47-2e0e-4794-b69f-33160439e15b"
@@ -14960,6 +15383,15 @@
 		)
 		(property "MPN" "RC0603FR-0710KL"
 			(at 34.29 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
+			(at 34.29 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15055,6 +15487,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 95.25 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a203d02f-43b7-4bec-87d9-3a6b382c1717")
 		)
@@ -15140,6 +15581,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 34.29 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "37d00337-5baf-46d1-b9f3-43ddfd58dcf1")
 		)
@@ -15218,6 +15668,15 @@
 		)
 		(property "MPN" "RC0805FR-077K5L"
 			(at 194.31 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
+			(at 194.31 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15377,6 +15836,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 119.38 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8c02b758-1536-4f67-acf1-431c60ec1cec")
 		)
@@ -15455,6 +15923,15 @@
 		)
 		(property "MPN" "RC0603FR-0710KL"
 			(at 34.29 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
+			(at 34.29 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15542,6 +16019,15 @@
 			)
 		)
 		(property "MPN" "5001"
+			(at 77.47 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
 			(at 77.47 194.31 0)
 			(effects
 				(font
@@ -15697,6 +16183,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 194.31 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "72ad55e6-9292-4374-8db7-eb15e549b4d4")
 		)
@@ -15777,6 +16272,15 @@
 		)
 		(property "MPN" "CL10B104KB8NNWC"
 			(at 137.16 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
+			(at 137.16 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15869,6 +16373,15 @@
 				(hide yes)
 			)
 		)
+		(property "DIGIKEY" ""
+			(at 34.29 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5ff24551-9242-42cf-bfcd-0286e179e079")
 		)
@@ -15947,6 +16460,15 @@
 		)
 		(property "MPN" "RC0603FR-07215RL"
 			(at 125.73 140.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGIKEY" ""
+			(at 125.73 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
