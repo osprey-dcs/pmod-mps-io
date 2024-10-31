@@ -101,7 +101,7 @@
         "padstack": "warning",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
+        "silk_edge_clearance": "ignore",
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
@@ -121,7 +121,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.3048,
+        "min_clearance": 0.2,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.3048,
         "min_hole_clearance": 0.3556,
@@ -133,8 +133,8 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.254,
-        "min_track_width": 0.3048,
-        "min_via_annular_width": 0.3048,
+        "min_track_width": 0.2,
+        "min_via_annular_width": 0.2,
         "min_via_diameter": 0.254,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
