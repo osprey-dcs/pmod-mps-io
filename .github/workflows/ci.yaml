@@ -1,0 +1,44 @@
+name: "MPS I/O"
+
+on: [push, pull_request, workflow_dispatch]
+
+jobs:
+  check:
+    name: "ERC/DRC"
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Run Checks
+      run: |
+          id
+          cat <<EOF > runit.sh
+          #!/bin/sh
+          set -e -x
+          cd /io
+          id
+
+          echo "::group::kicad version"
+          kicad-cli version --format about
+          echo "::endgroup::"
+
+          ./scripts/check.sh
+
+          EOF
+          chmod +x runit.sh
+          docker run --rm --quiet \
+           --user `id -u`:`id -g` \
+           --pull=always \
+           --tmpfs /.local \
+           --tmpfs /.cache \
+           -v `pwd`:/io \
+           kicad/kicad:8.0 \
+           /io/runit.sh
+
+    - name: Upload Reports
+      if: ${{ always() }}
+      uses: actions/upload-artifact@v4
+      with:
+        name: checks
+        path: '*.rpt'
