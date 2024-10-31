@@ -10380,7 +10380,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SO6_TLP2312(V4-TPL,E"
+		(property "Footprint" "0local:SO6_TLP2312(V4-TPL,E"
 			(at 165.1 97.028 0)
 			(effects
 				(font
@@ -10477,7 +10477,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SO6_TLP2312(V4-TPL,E"
+		(property "Footprint" "0local:SO6_TLP2312(V4-TPL,E"
 			(at 165.1 70.358 0)
 			(effects
 				(font
@@ -11782,7 +11782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SO6_TLP2312(V4-TPL,E"
+		(property "Footprint" "0local:SO6_TLP2312(V4-TPL,E"
 			(at 165.1 123.698 0)
 			(effects
 				(font
@@ -12625,7 +12625,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SO6_TLP2312(V4-TPL,E"
+		(property "Footprint" "0local:SO6_TLP2312(V4-TPL,E"
 			(at 165.1 43.688 0)
 			(effects
 				(font
@@ -14720,7 +14720,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ILQ615-4X009T:SOIC254P1005X380-16N"
+		(property "Footprint" "0local:ILQ615-4X009T_SMD-16"
 			(at 167.64 148.59 0)
 			(effects
 				(font
