@@ -5326,23 +5326,25 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "D"
-				(at 0 2.54 0)
+			(property "Reference" "D1"
+				(at -0.3174 -3.81 90)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify right)
 				)
 			)
-			(property "Value" "IR26-21C_L110_TR8"
-				(at 0 -3.81 0)
+			(property "Value" "LED_Green"
+				(at -2.8574 -3.81 90)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify right)
 				)
 			)
-			(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+			(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 				(at 0 5.08 0)
 				(effects
 					(font
@@ -5351,7 +5353,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "http://www.everlight.com/file/ProductFile/IR26-21C-L110-TR8.pdf"
+			(property "Datasheet" "https://www.kingbrightusa.com/images/catalog/SPEC/APT1608CGCK.pdf"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5360,8 +5362,26 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "940nm, 20 deg, Infrared LED, 1206"
+			(property "Description" "Green 570nm LED Indication - Discrete 2.1V 0603 (1608 Metric)"
 				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Digikey" "754-1116"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "APT1608CGCK"
+				(at 0 0 90)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -5394,18 +5414,6 @@
 					)
 					(stroke
 						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0)
 						(type default)
 					)
 					(fill
@@ -8497,7 +8505,7 @@
 	)
 	(text "RC filters to block\n4ms PLC test pulses\n15Hz 3dB cutoff"
 		(exclude_from_sim no)
-		(at 109.982 24.13 0)
+		(at 107.95 23.368 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15443,7 +15451,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "0local:LED_0603_1608Metric"
 			(at 90.17 185.42 0)
 			(effects
 				(font
@@ -15452,7 +15460,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.everlight.com/file/ProductFile/IR26-21C-L110-TR8.pdf"
+		(property "Datasheet" "~"
 			(at 95.25 185.42 0)
 			(effects
 				(font
@@ -15461,7 +15469,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "940nm, 20 deg, Infrared LED, 1206"
+		(property "Description" "Green LED"
 			(at 95.25 185.42 0)
 			(effects
 				(font
@@ -15481,15 +15489,6 @@
 		)
 		(property "MPN" "APT1608CGCK"
 			(at 95.25 185.42 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DIGIKEY" ""
-			(at 95.25 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
