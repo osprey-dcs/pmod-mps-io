@@ -243,7 +243,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -256,7 +256,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "7.5 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1084,7 +1084,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1097,7 +1097,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1.37 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1336,7 +1336,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/658/CL10B104KB8NNWC_Spec.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1349,7 +1349,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1599,7 +1599,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1612,7 +1612,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1.37 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3255,7 +3255,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3268,7 +3268,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1.37 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4195,7 +4195,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at -2.5 0 360)
+			(at -2.5 0 0)
 			(layer "F.Fab")
 			(uuid "b4bf6a15-2384-4455-a7e5-d97c0a957d6a")
 			(effects
@@ -4389,7 +4389,7 @@
 			(uuid "f61568ad-f71e-417e-a80d-947f1fc8bf97")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "6ff08cea-e315-44db-8322-4bc941b3eeb7")
 			(effects
@@ -4481,7 +4481,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4494,7 +4494,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4744,7 +4744,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4757,7 +4757,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5718,7 +5718,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/658/CL10B104KB8NNWC_Spec.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5731,7 +5731,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5981,7 +5981,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5994,7 +5994,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "7.5 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6210,7 +6210,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at -2.5 0 360)
+			(at -2.5 0 0)
 			(layer "F.Fab")
 			(uuid "e504c09b-86c9-4f95-9886-6abe7dace54b")
 			(effects
@@ -6404,7 +6404,7 @@
 			(uuid "f0e77a09-9613-45ab-92d0-eea5645e6f82")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "c5bb1712-5ea5-4094-a94f-2b7fbf1e4d9e")
 			(effects
@@ -6496,7 +6496,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/658/CL10B104KB8NNWC_Spec.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6509,7 +6509,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8328,7 +8328,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.kingbrightusa.com/images/catalog/SPEC/APT1608CGCK.pdf"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8341,7 +8341,7 @@
 				)
 			)
 		)
-		(property "Description" "Green LED"
+		(property "Description" "Green 570nm LED Indication - Discrete 2.1V 0603"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8852,7 +8852,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8865,7 +8865,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "7.5 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9106,7 +9106,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p56.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9119,7 +9119,7 @@
 				)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "Red PC Test Point, Miniature Phosphor Bronze Silver Plating Through Hole Mounting Type"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9164,6 +9164,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "67cc0d5f-6a41-40c7-a9ec-433ac6d491ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Keystone Electronics"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "450482d5-8a82-4924-9e83-a9da1de321a5")
 			(effects
 				(font
 					(size 1 1)
@@ -9850,7 +9863,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9863,7 +9876,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11291,7 +11304,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11304,7 +11317,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11554,7 +11567,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11567,7 +11580,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1.37 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11901,7 +11914,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/658/CL10B104KB8NNWC_Spec.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11914,7 +11927,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12730,7 +12743,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at -2.5 0 360)
+			(at -2.5 0 0)
 			(layer "F.Fab")
 			(uuid "5332e8e1-4f26-41ff-9c8b-e21a7d2d71e9")
 			(effects
@@ -12924,7 +12937,7 @@
 			(uuid "220cae8a-4cf2-4c6d-8e2c-b79501618dc6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "20f761b1-8c29-4d41-b7b9-5f0ac7090492")
 			(effects
@@ -13016,7 +13029,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13029,7 +13042,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "7.5 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13508,7 +13521,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at -2.5 0 360)
+			(at -2.5 0 0)
 			(layer "F.Fab")
 			(uuid "29131889-4362-4cbf-9cb0-50ccee057c52")
 			(effects
@@ -13702,7 +13715,7 @@
 			(uuid "efe2d7d2-70f2-4947-ac14-eaa530ea0b1e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "3760f517-e744-44c0-a0e7-55f691665e63")
 			(effects
@@ -14059,7 +14072,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p56.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14072,7 +14085,7 @@
 				)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "Black PC Test Point, Miniature Phosphor Bronze Silver Plating Through Hole Mounting Type"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14117,6 +14130,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1a82e3d1-91c3-492b-9b95-52a2c5803ffa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Keystone Electronics"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0f5bae63-14cd-40d8-923e-4da102b30647")
 			(effects
 				(font
 					(size 1 1)
@@ -14280,7 +14306,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14294,7 +14320,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "215 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14552,7 +14578,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61E106KA73-01.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14566,7 +14592,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10 µF ±10% 25V Ceramic Capacitor X5R 0805 (2012 Metric)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14813,7 +14839,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14827,7 +14853,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "215 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -15085,7 +15111,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -15099,7 +15125,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "215 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -15357,7 +15383,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_24.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -15371,7 +15397,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1 µF ±10% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -15629,7 +15655,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -15643,7 +15669,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "215 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -15901,7 +15927,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -15915,7 +15941,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 0 OHM JUMPER 1/8W 0805"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16162,7 +16188,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16176,7 +16202,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 0 OHM JUMPER 1/8W 0805"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16423,7 +16449,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/658/CL10B104KB8NNWC_Spec.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16437,7 +16463,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16695,7 +16721,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/658/CL10B104KB8NNWC_Spec.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16709,7 +16735,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17330,7 +17356,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17344,7 +17370,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 0 OHM JUMPER 1/8W 0805"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17591,7 +17617,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17605,7 +17631,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18228,7 +18254,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18242,7 +18268,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 0 OHM JUMPER 1/8W 0805"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
