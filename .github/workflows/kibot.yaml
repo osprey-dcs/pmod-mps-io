@@ -3,14 +3,16 @@ name: Automation
 on: [push, pull_request, workflow_dispatch]
 
 jobs:
-  bot:
+  fab:
+    name: Fab Outputs
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
     - uses: INTI-CMNB/KiBot@v2_k8
       with:
         dir: output
-        verbose: 3
+        config: mps-io.kibot.yaml
+        verbose: 1
     - name: Full output
       uses: actions/upload-artifact@v4
       if: ${{ always() }}
@@ -30,3 +32,29 @@ jobs:
           output/**/*.d356
           output/**/*.pos
           output/**/*bom*
+
+  diff:
+    name: Difference
+    runs-on: ubuntu-latest
+    if: ${{ github.base_ref }}
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    - name: Tag PR base
+      run: |
+        git tag xxBASE ${{ github.event.pull_request.base.sha }}
+        git log -n1 xxBASE
+    - uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        dir: diff
+        config: mps-io.kibot-diff.yaml
+        verbose: 3
+    - name: Upload Diff
+      id: diff
+      uses: actions/upload-artifact@v4
+      with:
+        name: diff
+        compression-level: 9
+        if-no-files-found: 'error'
+        path: diff

@@ -19,6 +19,9 @@ outputs:
   - name: Info
     type: info
 
+  - name: Report
+    type: report
+
   - name: BoM
     type: bom
     options:
