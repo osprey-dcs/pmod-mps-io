@@ -3,3 +3,4 @@ fp-info-cache
 *-backups/
 *.bak
 *.lck
+*autosave*

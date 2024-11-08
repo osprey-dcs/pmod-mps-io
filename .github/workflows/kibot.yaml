@@ -11,7 +11,7 @@ jobs:
     - uses: INTI-CMNB/KiBot@v2_k8
       with:
         dir: output
-        config: mps-io.kibot.yaml
+        config: .github/kibot-fab.yaml
         verbose: 1
     - name: Full output
       uses: actions/upload-artifact@v4
@@ -23,7 +23,7 @@ jobs:
       id: fab
       uses: actions/upload-artifact@v4
       with:
-        name: mps-io
+        name: Fab
         compression-level: 9
         if-no-files-found: 'error'
         path: |
@@ -48,7 +48,7 @@ jobs:
     - uses: INTI-CMNB/KiBot@v2_k8
       with:
         dir: diff
-        config: mps-io.kibot-diff.yaml
+        config: .github/kibot-diff.yaml
         verbose: 3
     - name: Upload Diff
       id: diff
