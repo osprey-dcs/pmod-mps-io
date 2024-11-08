@@ -42,6 +42,8 @@ outputs:
       group_fields: ['MPN']
       parse_value: false
       normalize_values: false
+      # include test points, which are actual components
+      exclude_filter: ''
 
   - name: 'print_sch'
     type: pdf_sch_print
